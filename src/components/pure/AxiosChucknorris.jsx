@@ -59,7 +59,7 @@ const AxiosChucknorris = () => {
                     component="img"
                     height="250"
                     image="https://api.chucknorris.io/img/chucknorris_logo_coloured_small.png"
-                    alt="green iguana"
+                    alt="Chucknorris"
                 />
                 <CardContent style={center}>
                     <Typography gutterBottom variant="h5" component="div">
